@@ -8,7 +8,7 @@ Com mais de 3 anos de experiência criando soluções web modernas e eficientes.
 
 Especializo-me em tecnologias como React, Next.js, Node.js, TypeScript, Python e JavaScript, sempre buscando as melhores práticas e padrões da indústria. Acredito que a tecnologia deve ser acessível e resolver problemas reais.
 
-Quando não estou codificando, você pode me encontrar explorando novas tecnologias, contribuindo para projetos open source ou compartilhando conhecimento com a comunidade de desenvolvedores".
+Quando não estou codificando, você pode me encontrar explorando novas tecnologias, contribuindo para projetos open source ou compartilhando conhecimento com a comunidade de desenvolvedores.
 
    <p align="left">
       <a href=
